@@ -15,7 +15,7 @@ The app supports rule-based analysis and AI-powered analysis (via the Google Gem
 ---
 
 ## Live Demo & Deployment
-- **Streamlit Prototype**: [Live Application Link](https://sensitive-data-compliance-assistant-g4zljrqdwytjgkwslzcwx4.streamlit.app/) *(Paste your Streamlit Cloud URL here)*
+- **Streamlit Prototype**: [Live Application Link](https://sensitive-data-compliance-assistant-g4zljrqdwytjgkwslzcwx4.streamlit.app/)
 
 ---
 
