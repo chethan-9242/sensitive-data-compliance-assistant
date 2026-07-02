@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/
+gemini_lines.txt
+apply_ui_overhaul.py
+apply_risk_and_page_fix.py
